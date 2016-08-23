@@ -1,0 +1,5 @@
+* schemey
+
+A toy Scheme implementation in Haskell based on [[https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours][Write Yourself a Scheme in 48 Hours]].
+
+Extracted from [[https://github.com/steshaw/playground/tree/9539a03cc33f1085a6ac0e61a16d5b8ad8c30a13/haskell/scheme-in-48h][my playground repository]].
