@@ -19,8 +19,20 @@
 (print  (fact 3))
 (sleep 1)
 
-(print "(fact 10)")
-(print  (fact 10))
+(print "(fact 4)")
+(print  (fact 4))
+(sleep 1)
+
+(print "(fact 5)")
+(print  (fact 5))
+(sleep 1)
+
+(print "(fact 6)")
+(print  (fact 6))
+(sleep 1)
+
+(print "(fact 7)")
+(print  (fact 7))
 (sleep 1)
 
 (print "(fact 100)")
